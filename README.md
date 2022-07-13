@@ -31,4 +31,3 @@
     </div>
 </div>
 
-<p>written with love, Tri. Lmao UwU ;P
