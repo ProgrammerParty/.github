@@ -8,6 +8,13 @@
 <p></p>
 <div id="members">
     <h2>Members:</h2>
+        <div id="DMGHa">
+        <h3>DMGHa</h3>
+        <div>
+            <img width="50" height="50" href="https://github.com/DMGHa" src="https://avatars.githubusercontent.com/u/102356405?v=4"
+        </div>
+        <p>Actually normal qwq</p>
+    </div>
     <div id="supernova">
         <h3>Super-Nova9000</h3>
         <div>
@@ -22,12 +29,4 @@
         </div>
         <p>Annoying femboy idiot ;P</p>
     </div>
-    <div id="DMGHa">
-        <h3>DMGHa</h3>
-        <div>
-            <img width="50" height="50" href="https://github.com/DMGHa" src="https://avatars.githubusercontent.com/u/102356405?v=4"
-        </div>
-        <p>Actually normal qwq</p>
-    </div>
 </div>
-
