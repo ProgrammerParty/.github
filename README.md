@@ -1,6 +1,6 @@
 <div id="imgL" align="center" style="display:inline;">
     <img width="25" height="25" src="https://media2.giphy.com/media/mP3bEugFsv01q/giphy.gif?cid=82a1493blzyh969m4appyzax8c5rtpkrjcfdgb6mcq12z13v&rid=giphy.gif&ct=g" />
-    {name}
+    <h3>Quadrata Technica</h3>
     <img width="25" height="25" src="https://media2.giphy.com/media/mP3bEugFsv01q/giphy.gif?cid=82a1493blzyh969m4appyzax8c5rtpkrjcfdgb6mcq12z13v&rid=giphy.gif&ct=g" />
 </div>
 
