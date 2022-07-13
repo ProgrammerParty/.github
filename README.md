@@ -1,9 +1,33 @@
-<div align="center">
-	<h3>ProgrammerParty</h3>
+<div id="imgL" align="center" style="display:inline;">
+    <img width="25" height="25" src="https://media2.giphy.com/media/mP3bEugFsv01q/giphy.gif?cid=82a1493blzyh969m4appyzax8c5rtpkrjcfdgb6mcq12z13v&rid=giphy.gif&ct=g" />
+    {name}
+    <img width="25" height="25" src="https://media2.giphy.com/media/mP3bEugFsv01q/giphy.gif?cid=82a1493blzyh969m4appyzax8c5rtpkrjcfdgb6mcq12z13v&rid=giphy.gif&ct=g" />
 </div>
-<div align="center">
-	<h1>BALLS<h1>
+
+<p align="center">------------------------------------------</p>
+<p></p>
+<div id="members">
+    <h2>Members:</h2>
+    <div id="supernova">
+        <h3>Super-Nova9000</h3>
+        <div>
+            <img width="50" height="50" href="https://Super-Nova9000" src="https://avatars.githubusercontent.com/u/102793671?v=4"
+        </div>
+        <p>Lanky plane boi</p>
+    </div>
+    <div id="tri">
+        <h3>TriFoxi</h3>
+        <div>
+            <img width="50" height="50" href="https://TriFoxi" src="https://avatars.githubusercontent.com/u/105915392?s=96&v=4"
+        </div>
+        <p>Annoying femboy idiot ;P</p>
+    </div>
+    <div id="DMGHa">
+        <h3>DMGHa</h3>
+        <div>
+            <img width="50" height="50" href="https://github.com/DMGHa" src="https://avatars.githubusercontent.com/u/102356405?v=4"
+        </div>
+        <p>Actually normal qwq</p>
+    </div>
 </div>
-<div>
-	<p6>cum</p6>
-</div>
+
