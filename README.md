@@ -8,7 +8,7 @@
 <p></p>
 <div id="members">
     <h2>Members:</h2>
-        <div id="DMGHa">
+        <div id="squirtyfish">
         <h3>DMGHa</h3>
         <div>
             <img width="50" height="50" href="https://github.com/DMGHa" src="https://avatars.githubusercontent.com/u/102356405?v=4"
